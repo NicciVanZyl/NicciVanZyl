@@ -1,16 +1,20 @@
-## Hi there 👋
+##  <h2 align="center"> ✧ ♡ Hi, welcome to my profile! ♡ ✧ </h2>
 
-<!--
-**NicciVanZyl/NicciVanZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  <h2 align="center"> ✧ ♡ More About Me ♡ ✧ </h2>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NicciVanZyl/NicciVanZyl/blob/main/GitAsstes/dark%20(1).svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NicciVanZyl/NicciVanZyl/blob/main/GitAsstes/light.svg">
+  <img alt="Mahyudeen Shahid Hero Banner" src="readmefile/dark.svg" width="100%">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+##  <h2 align="center"> ✧ ♡ My Github Stats ♡ ✧ </h2>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NicciVanZyl/NicciVanZyl/raw/output/github-snake-dark.svg?sanitize=true&v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NicciVanZyl/NicciVanZyl/raw/output/github-snake.svg?sanitize=true&v=2" />
+  <img alt="github contribution grid snake animation" src="https://github.com/kiera251197/kiera251197/raw/output/github-snake.svg?sanitize=true&v=2" />
+</picture>
+</p>
+</div>
