@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: NicciVanZyl
+          outputs: |
+            dist/github-snake.svg?color_snake=#e60049&color_dots=#f3f4f8,#f9d7e3,#f3afc7,#ed88ab,#e60049
+            dist/github-snake-dark.svg?color_snake=#e60049&color_dots=#0d0e15,#381628,#661c3c,#a01246,#e60049
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
