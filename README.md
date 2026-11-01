@@ -188,6 +188,14 @@
   </a>
 </div>
 
+##  <h2 align="center"> ✧ ♡ Like My Dev Work? ♡ ✧ </h2>
+
+<p> Contact me at:</p>
+<p> 251023@virtualwindow.co.za</p>
+
+<p> Visit my Gitlab for my Game Dev Projects:</p>
+<p> https://gitlab.com/NicciVanZyl</p>
+
 ----
 
 <p align="center" > ✧ ♡ See you again soon! ♡ ✧ </p>
